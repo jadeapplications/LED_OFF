@@ -1,0 +1,10 @@
+{
+    "name": "LED_OFF",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "LED_OFF.xml",
+    "author": "mykepredko",
+    "minimum_firmware_version": 42
+}
